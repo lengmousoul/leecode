@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Desktop/leecode/app/min_sub_array.c
+min_sub_array.h
+D:/Desktop/leecode/app/min_sub_array.h
+stdio.h
+D:/Desktop/leecode/app/stdio.h
+
+D:/Desktop/leecode/app/min_sub_array.h
+

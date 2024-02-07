@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Desktop/leecode/4.square_big/square_big.cpp
+square_big.h
+D:/Desktop/leecode/4.square_big/square_big.h
+
+D:/Desktop/leecode/4.square_big/square_big.h
+iostream
+-
+vector
+-
+

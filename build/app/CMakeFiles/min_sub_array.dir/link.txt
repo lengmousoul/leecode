@@ -1,0 +1,2 @@
+D:\code_configuration\mingw64\bin\ar.exe qc libmin_sub_array.a  CMakeFiles/min_sub_array.dir/min_sub_array.c.obj
+D:\code_configuration\mingw64\bin\ranlib.exe libmin_sub_array.a

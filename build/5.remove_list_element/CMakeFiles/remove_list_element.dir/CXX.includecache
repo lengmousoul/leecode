@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Desktop/leecode/5.remove_list_element/remove_list_element.cpp
+remove_list_element.h
+D:/Desktop/leecode/5.remove_list_element/remove_list_element.h
+
+D:/Desktop/leecode/5.remove_list_element/remove_list_element.h
+iostream
+-
+

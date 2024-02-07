@@ -1,0 +1,3 @@
+D:\code_configuration\cmake-3.17.0-rc3-win64-x64\bin\cmake.exe -E rm -f CMakeFiles\straight.dir/objects.a
+D:\code_configuration\mingw64\bin\ar.exe cr CMakeFiles\straight.dir/objects.a @CMakeFiles\straight.dir\objects1.rsp
+D:\code_configuration\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\straight.dir/objects.a -Wl,--no-whole-archive  -o straight.exe -Wl,--out-implib,libstraight.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\straight.dir\linklibs.rsp

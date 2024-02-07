@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Desktop/leecode/19.stringtoint/stringtoint.cpp
+stringtoint.h
+D:/Desktop/leecode/19.stringtoint/stringtoint.h
+
+D:/Desktop/leecode/19.stringtoint/stringtoint.h
+iostream
+-
+string
+-
+

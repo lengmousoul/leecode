@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Desktop/leecode/9.straight/straight.cpp
+straight.h
+D:/Desktop/leecode/9.straight/straight.h
+
+D:/Desktop/leecode/9.straight/straight.h
+iostream
+-
+algorithm
+-
+vector
+-
+

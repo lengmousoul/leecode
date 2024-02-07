@@ -1,0 +1,3 @@
+D:\code_configuration\cmake-3.17.0-rc3-win64-x64\bin\cmake.exe -E rm -f CMakeFiles\MIN.dir/objects.a
+D:\code_configuration\mingw64\bin\ar.exe cr CMakeFiles\MIN.dir/objects.a @CMakeFiles\MIN.dir\objects1.rsp
+D:\code_configuration\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\MIN.dir/objects.a -Wl,--no-whole-archive  -o MIN.exe -Wl,--out-implib,libMIN.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\MIN.dir\linklibs.rsp

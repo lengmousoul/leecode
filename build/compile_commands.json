@@ -1,0 +1,112 @@
+[
+{
+  "directory": "D:/Desktop/leecode/build/app",
+  "command": "D:\\code_configuration\\mingw64\\bin\\gcc.exe  @CMakeFiles/queue.dir/includes_C.rsp -g   -o CMakeFiles\\queue.dir\\queue.c.obj   -c D:\\Desktop\\leecode\\app\\queue.c",
+  "file": "D:/Desktop/leecode/app/queue.c"
+},
+{
+  "directory": "D:/Desktop/leecode/build/app",
+  "command": "D:\\code_configuration\\mingw64\\bin\\gcc.exe  @CMakeFiles/min_sub_array.dir/includes_C.rsp -g   -o CMakeFiles\\min_sub_array.dir\\min_sub_array.c.obj   -c D:\\Desktop\\leecode\\app\\min_sub_array.c",
+  "file": "D:/Desktop/leecode/app/min_sub_array.c"
+},
+{
+  "directory": "D:/Desktop/leecode/build/app_main",
+  "command": "D:\\code_configuration\\mingw64\\bin\\gcc.exe  @CMakeFiles/output.dir/includes_C.rsp -g   -o CMakeFiles\\output.dir\\main.c.obj   -c D:\\Desktop\\leecode\\app_main\\main.c",
+  "file": "D:/Desktop/leecode/app_main/main.c"
+},
+{
+  "directory": "D:/Desktop/leecode/build/1.two_search",
+  "command": "D:\\code_configuration\\mingw64\\bin\\g++.exe   @CMakeFiles/two.dir/includes_CXX.rsp -g   -o CMakeFiles\\two.dir\\two_search.cpp.obj -c D:\\Desktop\\leecode\\1.two_search\\two_search.cpp",
+  "file": "D:/Desktop/leecode/1.two_search/two_search.cpp"
+},
+{
+  "directory": "D:/Desktop/leecode/build/2.min_sub_length",
+  "command": "D:\\code_configuration\\mingw64\\bin\\g++.exe   @CMakeFiles/MIN.dir/includes_CXX.rsp -g   -o CMakeFiles\\MIN.dir\\min_sub_length.cpp.obj -c D:\\Desktop\\leecode\\2.min_sub_length\\min_sub_length.cpp",
+  "file": "D:/Desktop/leecode/2.min_sub_length/min_sub_length.cpp"
+},
+{
+  "directory": "D:/Desktop/leecode/build/3.remove_element",
+  "command": "D:\\code_configuration\\mingw64\\bin\\g++.exe   @CMakeFiles/remove_element.dir/includes_CXX.rsp -g   -o CMakeFiles\\remove_element.dir\\remove_element.cpp.obj -c D:\\Desktop\\leecode\\3.remove_element\\remove_element.cpp",
+  "file": "D:/Desktop/leecode/3.remove_element/remove_element.cpp"
+},
+{
+  "directory": "D:/Desktop/leecode/build/4.square_big",
+  "command": "D:\\code_configuration\\mingw64\\bin\\g++.exe   @CMakeFiles/square_big.dir/includes_CXX.rsp -g   -o CMakeFiles\\square_big.dir\\square_big.cpp.obj -c D:\\Desktop\\leecode\\4.square_big\\square_big.cpp",
+  "file": "D:/Desktop/leecode/4.square_big/square_big.cpp"
+},
+{
+  "directory": "D:/Desktop/leecode/build/5.remove_list_element",
+  "command": "D:\\code_configuration\\mingw64\\bin\\g++.exe   @CMakeFiles/remove_list_element.dir/includes_CXX.rsp -g   -o CMakeFiles\\remove_list_element.dir\\remove_list_element.cpp.obj -c D:\\Desktop\\leecode\\5.remove_list_element\\remove_list_element.cpp",
+  "file": "D:/Desktop/leecode/5.remove_list_element/remove_list_element.cpp"
+},
+{
+  "directory": "D:/Desktop/leecode/build/6.is_vaild_ip",
+  "command": "D:\\code_configuration\\mingw64\\bin\\g++.exe   @CMakeFiles/is_vaild_ip.dir/includes_CXX.rsp -g   -o CMakeFiles\\is_vaild_ip.dir\\is_vaild_ip.cpp.obj -c D:\\Desktop\\leecode\\6.is_vaild_ip\\is_vaild_ip.cpp",
+  "file": "D:/Desktop/leecode/6.is_vaild_ip/is_vaild_ip.cpp"
+},
+{
+  "directory": "D:/Desktop/leecode/build/7.convert_notvaild",
+  "command": "D:\\code_configuration\\mingw64\\bin\\g++.exe   @CMakeFiles/convert_notvaild.dir/includes_CXX.rsp -g   -o CMakeFiles\\convert_notvaild.dir\\convert_notvaild.cpp.obj -c D:\\Desktop\\leecode\\7.convert_notvaild\\convert_notvaild.cpp",
+  "file": "D:/Desktop/leecode/7.convert_notvaild/convert_notvaild.cpp"
+},
+{
+  "directory": "D:/Desktop/leecode/build/8.drink",
+  "command": "D:\\code_configuration\\mingw64\\bin\\g++.exe   @CMakeFiles/drink.dir/includes_CXX.rsp -g   -o CMakeFiles\\drink.dir\\drink.cpp.obj -c D:\\Desktop\\leecode\\8.drink\\drink.cpp",
+  "file": "D:/Desktop/leecode/8.drink/drink.cpp"
+},
+{
+  "directory": "D:/Desktop/leecode/build/9.straight",
+  "command": "D:\\code_configuration\\mingw64\\bin\\g++.exe   @CMakeFiles/straight.dir/includes_CXX.rsp -g   -o CMakeFiles\\straight.dir\\straight.cpp.obj -c D:\\Desktop\\leecode\\9.straight\\straight.cpp",
+  "file": "D:/Desktop/leecode/9.straight/straight.cpp"
+},
+{
+  "directory": "D:/Desktop/leecode/build/10.two_sum",
+  "command": "D:\\code_configuration\\mingw64\\bin\\g++.exe   @CMakeFiles/two_sum.dir/includes_CXX.rsp -g   -o CMakeFiles\\two_sum.dir\\two_sum.cpp.obj -c D:\\Desktop\\leecode\\10.two_sum\\two_sum.cpp",
+  "file": "D:/Desktop/leecode/10.two_sum/two_sum.cpp"
+},
+{
+  "directory": "D:/Desktop/leecode/build/11.reverse_string",
+  "command": "D:\\code_configuration\\mingw64\\bin\\g++.exe   @CMakeFiles/reverse_string.dir/includes_CXX.rsp -g   -o CMakeFiles\\reverse_string.dir\\reverse_string.cpp.obj -c D:\\Desktop\\leecode\\11.reverse_string\\reverse_string.cpp",
+  "file": "D:/Desktop/leecode/11.reverse_string/reverse_string.cpp"
+},
+{
+  "directory": "D:/Desktop/leecode/build/12.reverse_word_in_string",
+  "command": "D:\\code_configuration\\mingw64\\bin\\g++.exe   @CMakeFiles/reverse_message.dir/includes_CXX.rsp -g   -o CMakeFiles\\reverse_message.dir\\reverse_message.cpp.obj -c D:\\Desktop\\leecode\\12.reverse_word_in_string\\reverse_message.cpp",
+  "file": "D:/Desktop/leecode/12.reverse_word_in_string/reverse_message.cpp"
+},
+{
+  "directory": "D:/Desktop/leecode/build/13.is_palindrome",
+  "command": "D:\\code_configuration\\mingw64\\bin\\g++.exe   @CMakeFiles/palindrome.dir/includes_CXX.rsp -g   -o CMakeFiles\\palindrome.dir\\palindrome.cpp.obj -c D:\\Desktop\\leecode\\13.is_palindrome\\palindrome.cpp",
+  "file": "D:/Desktop/leecode/13.is_palindrome/palindrome.cpp"
+},
+{
+  "directory": "D:/Desktop/leecode/build/14.palindrome_num",
+  "command": "D:\\code_configuration\\mingw64\\bin\\g++.exe   @CMakeFiles/palindrome_num.dir/includes_CXX.rsp -g   -o CMakeFiles\\palindrome_num.dir\\palindrome_num.cpp.obj -c D:\\Desktop\\leecode\\14.palindrome_num\\palindrome_num.cpp",
+  "file": "D:/Desktop/leecode/14.palindrome_num/palindrome_num.cpp"
+},
+{
+  "directory": "D:/Desktop/leecode/build/15.length_last_word",
+  "command": "D:\\code_configuration\\mingw64\\bin\\g++.exe   @CMakeFiles/length_last_word.dir/includes_CXX.rsp -g   -o CMakeFiles\\length_last_word.dir\\length_last_word.cpp.obj -c D:\\Desktop\\leecode\\15.length_last_word\\length_last_word.cpp",
+  "file": "D:/Desktop/leecode/15.length_last_word/length_last_word.cpp"
+},
+{
+  "directory": "D:/Desktop/leecode/build/16.path_encryption",
+  "command": "D:\\code_configuration\\mingw64\\bin\\g++.exe    -g   -o CMakeFiles\\path_encryption.dir\\path_encryption.cpp.obj -c D:\\Desktop\\leecode\\16.path_encryption\\path_encryption.cpp",
+  "file": "D:/Desktop/leecode/16.path_encryption/path_encryption.cpp"
+},
+{
+  "directory": "D:/Desktop/leecode/build/17.dynamic_pass",
+  "command": "D:\\code_configuration\\mingw64\\bin\\g++.exe   @CMakeFiles/dynamic_pass.dir/includes_CXX.rsp -g   -o CMakeFiles\\dynamic_pass.dir\\dynamic_pass.cpp.obj -c D:\\Desktop\\leecode\\17.dynamic_pass\\dynamic_pass.cpp",
+  "file": "D:/Desktop/leecode/17.dynamic_pass/dynamic_pass.cpp"
+},
+{
+  "directory": "D:/Desktop/leecode/build/18.remove_duplicates",
+  "command": "D:\\code_configuration\\mingw64\\bin\\g++.exe   @CMakeFiles/remove_duplicates.dir/includes_CXX.rsp -g   -o CMakeFiles\\remove_duplicates.dir\\remove_duplicates.cpp.obj -c D:\\Desktop\\leecode\\18.remove_duplicates\\remove_duplicates.cpp",
+  "file": "D:/Desktop/leecode/18.remove_duplicates/remove_duplicates.cpp"
+},
+{
+  "directory": "D:/Desktop/leecode/build/19.stringtoint",
+  "command": "D:\\code_configuration\\mingw64\\bin\\g++.exe   @CMakeFiles/stringtoint.dir/includes_CXX.rsp -g   -o CMakeFiles\\stringtoint.dir\\stringtoint.cpp.obj -c D:\\Desktop\\leecode\\19.stringtoint\\stringtoint.cpp",
+  "file": "D:/Desktop/leecode/19.stringtoint/stringtoint.cpp"
+}
+]

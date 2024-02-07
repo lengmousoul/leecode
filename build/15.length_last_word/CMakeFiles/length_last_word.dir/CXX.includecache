@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Desktop/leecode/15.length_last_word/length_last_word.cpp
+length_last_word.h
+D:/Desktop/leecode/15.length_last_word/length_last_word.h
+
+D:/Desktop/leecode/15.length_last_word/length_last_word.h
+iostream
+-
+vector
+-
+string
+-
+

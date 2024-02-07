@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Desktop/leecode/8.drink/drink.cpp
+drink.h
+D:/Desktop/leecode/8.drink/drink.h
+
+D:/Desktop/leecode/8.drink/drink.h
+iostream
+-
+

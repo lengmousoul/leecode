@@ -1,0 +1,2 @@
+D:\code_configuration\mingw64\bin\ar.exe qc libqueue.a  CMakeFiles/queue.dir/queue.c.obj
+D:\code_configuration\mingw64\bin\ranlib.exe libqueue.a

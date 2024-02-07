@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Desktop/leecode/6.is_vaild_ip/is_vaild_ip.cpp
+is_vaild_ip.h
+D:/Desktop/leecode/6.is_vaild_ip/is_vaild_ip.h
+
+D:/Desktop/leecode/6.is_vaild_ip/is_vaild_ip.h
+iostream
+-
+string
+-
+vector
+-
+sstream
+-
+

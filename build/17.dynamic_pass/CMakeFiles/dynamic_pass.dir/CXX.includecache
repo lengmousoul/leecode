@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Desktop/leecode/17.dynamic_pass/dynamic_pass.cpp
+dynamic_pass.h
+D:/Desktop/leecode/17.dynamic_pass/dynamic_pass.h
+
+D:/Desktop/leecode/17.dynamic_pass/dynamic_pass.h
+iostream
+-
+string
+-
+

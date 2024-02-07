@@ -1,0 +1,775 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "app",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "app",
+					"targetIndexes" : 
+					[
+						6,
+						11
+					]
+				},
+				{
+					"build" : "app_main",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "app_main",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "1.two_search",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "1.two_search",
+					"targetIndexes" : 
+					[
+						20
+					]
+				},
+				{
+					"build" : "2.min_sub_length",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "2.min_sub_length",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "3.remove_element",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "3.remove_element",
+					"targetIndexes" : 
+					[
+						13
+					]
+				},
+				{
+					"build" : "4.square_big",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 4,
+					"source" : "4.square_big",
+					"targetIndexes" : 
+					[
+						17
+					]
+				},
+				{
+					"build" : "5.remove_list_element",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 5,
+					"source" : "5.remove_list_element",
+					"targetIndexes" : 
+					[
+						14
+					]
+				},
+				{
+					"build" : "6.is_vaild_ip",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 6,
+					"source" : "6.is_vaild_ip",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "7.convert_notvaild",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 7,
+					"source" : "7.convert_notvaild",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "8.drink",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 8,
+					"source" : "8.drink",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "9.straight",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 9,
+					"source" : "9.straight",
+					"targetIndexes" : 
+					[
+						18
+					]
+				},
+				{
+					"build" : "10.two_sum",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 10,
+					"source" : "10.two_sum",
+					"targetIndexes" : 
+					[
+						21
+					]
+				},
+				{
+					"build" : "11.reverse_string",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 11,
+					"source" : "11.reverse_string",
+					"targetIndexes" : 
+					[
+						16
+					]
+				},
+				{
+					"build" : "12.reverse_word_in_string",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 12,
+					"source" : "12.reverse_word_in_string",
+					"targetIndexes" : 
+					[
+						15
+					]
+				},
+				{
+					"build" : "13.is_palindrome",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 13,
+					"source" : "13.is_palindrome",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "14.palindrome_num",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 14,
+					"source" : "14.palindrome_num",
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"build" : "15.length_last_word",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 15,
+					"source" : "15.length_last_word",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "16.path_encryption",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 16,
+					"source" : "16.path_encryption",
+					"targetIndexes" : 
+					[
+						10
+					]
+				},
+				{
+					"build" : "17.dynamic_pass",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 17,
+					"source" : "17.dynamic_pass",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "18.remove_duplicates",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 18,
+					"source" : "18.remove_duplicates",
+					"targetIndexes" : 
+					[
+						12
+					]
+				},
+				{
+					"build" : "19.stringtoint",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 19,
+					"source" : "19.stringtoint",
+					"targetIndexes" : 
+					[
+						19
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "output",
+					"targetIndexes" : 
+					[
+						6,
+						7,
+						11
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "two_search",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						20
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "min_sub_length",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "remove_element",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						13
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "square_big",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						17
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						7
+					],
+					"name" : "remove_list_element",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						14
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						8
+					],
+					"name" : "is_vaild_ip",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						9
+					],
+					"name" : "convert_notvaild",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						10
+					],
+					"name" : "drink",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						11
+					],
+					"name" : "straight",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						18
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						12
+					],
+					"name" : "two_sum",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						21
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						13
+					],
+					"name" : "reverse_string",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						16
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						14
+					],
+					"name" : "reverse_message",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						15
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						15
+					],
+					"name" : "palindrome",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						16
+					],
+					"name" : "palindrome_num",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						17
+					],
+					"name" : "length_last_word",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						18
+					],
+					"name" : "path_encryption",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						10
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						19
+					],
+					"name" : "dynamic_pass",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						20
+					],
+					"name" : "remove_duplicates",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						12
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						21
+					],
+					"name" : "stringtoint",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						19
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 4,
+					"id" : "MIN::@e2f9e5b02121a5a5b91f",
+					"jsonFile" : "target-MIN-Debug-ae5d35b1a597d58db7d1.json",
+					"name" : "MIN",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "convert_notvaild::@3bde88b4dad064a2d5e2",
+					"jsonFile" : "target-convert_notvaild-Debug-2b4f76afd0e884664e92.json",
+					"name" : "convert_notvaild",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "drink::@4e1bf439f004509d8ccf",
+					"jsonFile" : "target-drink-Debug-4738e20f776079650bcf.json",
+					"name" : "drink",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 19,
+					"id" : "dynamic_pass::@7653f9091e342b40f0fa",
+					"jsonFile" : "target-dynamic_pass-Debug-f0af80c58515139f90c0.json",
+					"name" : "dynamic_pass",
+					"projectIndex" : 17
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "is_vaild_ip::@5eb0c2ca377eacd2adc2",
+					"jsonFile" : "target-is_vaild_ip-Debug-18556e6a22d6f487e9c8.json",
+					"name" : "is_vaild_ip",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 17,
+					"id" : "length_last_word::@0eae50c0e1b24c32ce50",
+					"jsonFile" : "target-length_last_word-Debug-1004e770f8864cd60742.json",
+					"name" : "length_last_word",
+					"projectIndex" : 15
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "min_sub_array::@5f5a17c01335469806cb",
+					"jsonFile" : "target-min_sub_array-Debug-b84bc6536b653f8c37e6.json",
+					"name" : "min_sub_array",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "output::@10559af4b9c25ad3f311",
+					"jsonFile" : "target-output-Debug-50705fd3861939652b21.json",
+					"name" : "output",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "palindrome::@d513e0f88861ba861367",
+					"jsonFile" : "target-palindrome-Debug-dfeb1b90ea9b3b140f36.json",
+					"name" : "palindrome",
+					"projectIndex" : 13
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "palindrome_num::@d8c97bc9beab1118f747",
+					"jsonFile" : "target-palindrome_num-Debug-d1ac896ef3602dc9b31c.json",
+					"name" : "palindrome_num",
+					"projectIndex" : 14
+				},
+				{
+					"directoryIndex" : 18,
+					"id" : "path_encryption::@b6e2b4614c4eadf71e93",
+					"jsonFile" : "target-path_encryption-Debug-b8e70c66fd4fbe54f55a.json",
+					"name" : "path_encryption",
+					"projectIndex" : 16
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "queue::@5f5a17c01335469806cb",
+					"jsonFile" : "target-queue-Debug-9a193fe55528e7a54f5d.json",
+					"name" : "queue",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 20,
+					"id" : "remove_duplicates::@6f783003dabc9a79f12f",
+					"jsonFile" : "target-remove_duplicates-Debug-5e1bdb4bfbd113d060f9.json",
+					"name" : "remove_duplicates",
+					"projectIndex" : 18
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "remove_element::@0c320a73ae25ae865e71",
+					"jsonFile" : "target-remove_element-Debug-af31eb740772bb0ce19f.json",
+					"name" : "remove_element",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "remove_list_element::@1557854949b0a1350ba4",
+					"jsonFile" : "target-remove_list_element-Debug-9eb80b33a4fd93731862.json",
+					"name" : "remove_list_element",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "reverse_message::@306f647bbde09f42a126",
+					"jsonFile" : "target-reverse_message-Debug-1875d186f9f8177f024a.json",
+					"name" : "reverse_message",
+					"projectIndex" : 12
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "reverse_string::@4edd94a73afee086ba2a",
+					"jsonFile" : "target-reverse_string-Debug-61a18513b2ddec663102.json",
+					"name" : "reverse_string",
+					"projectIndex" : 11
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "square_big::@379b1100dc8145ac7b4c",
+					"jsonFile" : "target-square_big-Debug-6275020f962652159a4b.json",
+					"name" : "square_big",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "straight::@4f33e7c0e639ad401c4b",
+					"jsonFile" : "target-straight-Debug-c4bc0fb81d73be965a67.json",
+					"name" : "straight",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 21,
+					"id" : "stringtoint::@fd68d80c7507f53e8bc3",
+					"jsonFile" : "target-stringtoint-Debug-6028b4f1e8e4aecdf425.json",
+					"name" : "stringtoint",
+					"projectIndex" : 19
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "two::@4edbf6af4a319eadb6bd",
+					"jsonFile" : "target-two-Debug-e4495ad4a3f6f1a691ae.json",
+					"name" : "two",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "two_sum::@0b0a60807b68099765db",
+					"jsonFile" : "target-two_sum-Debug-0f10a91a76483be1564f.json",
+					"name" : "two_sum",
+					"projectIndex" : 10
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Desktop/leecode/build",
+		"source" : "D:/Desktop/leecode"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}
